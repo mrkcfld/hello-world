@@ -1,2 +1,2 @@
 # hello-world
-This is the first step.
+This is the first feature branch.
